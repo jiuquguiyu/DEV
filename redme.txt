@@ -1,1 +1,5 @@
 hello,world
+nihao a  nanjie
+wo shi ni de fen si
+:wq
+
